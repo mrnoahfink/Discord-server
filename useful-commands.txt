@@ -1,0 +1,45 @@
+### Basic commands for DiscordGSM (Docker version)
+
+# Build the discordgsm-docker image locally
+docker build -t discordgsm-docker . --no-cache
+
+# Create and build the discordgsm-docker image to container in detached mode
+docker run -d -t --name discordgsm-docker discordgsm-docker
+
+# Remove the discordgsm-docker image
+docker image rm discordgsm-docker
+
+# Start the discordgsm-docker container
+docker start discordgsm-docker
+
+# Stop the discordgsm-docker container
+docker stop discordgsm-docker
+
+# Attach the discordgsm-docker container (Ctrl D or C to detach)
+docker attach discordgsm-docker
+
+# Remove the discordgsm-docker container
+docker rm discordgsm-docker
+
+
+### Useful docker management commands
+
+# Show ALL docker images
+docker images
+
+# Remove ALL dangling images
+docker image prune
+
+# Remove ALL images
+docker image prune -a
+
+# Show ALL docker containers
+docker ps -a
+
+# Stop ALL docker containers
+(Windows) FOR /f "tokens=*" %i IN ('docker ps -a -q') DO docker stop %i
+(Linux) docker stop $(docker ps -a -q)
+
+# Remove ALL docker containers
+(Windows) FOR /f "tokens=*" %i IN ('docker ps -a -q') DO docker rm %i
+(Linux) docker rm $(docker ps -a -q)

@@ -1,0 +1,138 @@
+[
+    {
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27015,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27025,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27035,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27045,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27055,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27085,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },    
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27076,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27057,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27105,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27094,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27088,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27115,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27154,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27315,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27375,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27415,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+	{
+        "type": "SourceQuery",
+        "game": "Team Fortress 2",
+        "addr": "24.149.29.4",
+        "port": 27425,
+        "channel": 766850472186216459,
+        "image_url": "https://pbs.twimg.com/profile_images/1107047014628364288/g2DYsm_7_400x400.jpg"
+    },
+]
